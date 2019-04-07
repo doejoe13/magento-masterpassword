@@ -1,0 +1,16 @@
+{
+  "name": "gaiterjones/magento-masterpassword",
+  "description": "Login to any valid Magento customer account with one master password.",
+  "type": "magento-module",
+  "homepage": "https://github.com/gaiterjones/magento-masterpassword",
+  "license": "The MIT License",
+  "authors": [
+    {
+      "name": "gaiterjones",
+      "email": "sdinteractive@somethingdigital.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
