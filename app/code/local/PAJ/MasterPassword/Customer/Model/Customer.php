@@ -26,7 +26,7 @@
  *
  */
  
-class PAJ_MasterPassword_Customer_Model_Customer extends Mage_Customer_Model_Customer
+class PAJ_MasterPassword_Customer_Model_Customer extends PAJ_MasterPassword_Customer_Model_Customer_Compatibility
 {
 
 
